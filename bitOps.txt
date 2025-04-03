@@ -1,0 +1,10 @@
+& AND
+| Inclusive OR
+^ ExOR
+~ Ones complement
+<< left shift
+>> right shift
+
+All, except ~, take two operands
+Performed on integer value and chars, but not floats
+
