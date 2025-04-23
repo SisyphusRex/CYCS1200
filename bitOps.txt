@@ -8,3 +8,6 @@
 All, except ~, take two operands
 Performed on integer value and chars, but not floats
 
+<< and >> are undefined for:
+  negative numbers
+  shifts larger than size of number
